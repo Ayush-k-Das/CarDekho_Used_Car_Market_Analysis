@@ -1,5 +1,3 @@
----
-
 # 🚗 CarDekho Used Car Market Analysis Dashboard
 
 ## 📌 Project Overview
